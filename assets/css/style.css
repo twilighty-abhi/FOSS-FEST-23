@@ -20944,6 +20944,12 @@ use.like-icon {
     justify-content: space-around;
     align-items: center;
 }
+
+.cert-1 {
+    display: flex;
+    padding: auto;
+    justify-content: space-around;
+}
 .sc {
     display: flex;
     justify-content: center;
@@ -20957,6 +20963,17 @@ use.like-icon {
     align-items: center;
     text-align: center;
 }
+
+.se-0 {
+    display: flex;
+    align-items: center;
+}
+
+.se-1 {
+    display: flex;
+    align-items: center;
+}
+
 .center-content,.btn.icon-btn {
     display: flex;
     justify-content: center;
@@ -26914,15 +26931,8 @@ img[alt]:after {
     margin-top: auto
 }
 
-.footer-logo {
-    min-width: 5rem;
-    height: 1.5rem;
-    object-fit: contain;
-    object-position: left
-}
-
 .footer-child-item {
-    margin-top: .5rem
+    margin-top: .5rem;
 }
 
 .footer-link,.footer-child-item a {
@@ -26968,7 +26978,9 @@ img[alt]:after {
 }
 
 .footer-group {
-    margin-top: 2rem
+    display: flex;
+    margin-top: 2rem;
+    justify-content: space-around;
 }
 
 .footer-group-label {
@@ -26978,7 +26990,8 @@ img[alt]:after {
 }
 
 .footer-grouped-links {
-    margin-bottom: 2rem
+    margin-bottom: 2rem;
+    justify-content: space-around;
 }
 
 .footer-group-links {
