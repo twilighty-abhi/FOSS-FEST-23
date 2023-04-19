@@ -1,4 +1,42 @@
 @import"https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap";
+.newcolor{
+    background-color: #08B74F;
+    height: 202px;
+}
+
+.curved-box {
+    border-radius: 22px; /* Change this value to adjust the amount of curvature */
+}
+
+.small-img {
+    width: 95px;
+}
+
+.img-txt {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+}
+
+.event-txt {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+.event-box {
+    background-color: #08B74F;
+    width: 182px;
+    height: 102px;
+}
+
+.event-container {
+    width: 1061px;
+}
+
 .ql-container {
     box-sizing: border-box;
     font-family: Helvetica,Arial,sans-serif;
