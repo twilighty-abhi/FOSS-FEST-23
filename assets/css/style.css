@@ -20937,6 +20937,13 @@ use.like-icon {
     text-align: center
 }
 
+.cert {
+    display: flex;
+    margin: auto;
+    padding: auto;
+    justify-content: space-around;
+    align-items: center;
+}
 .sc {
     display: flex;
     justify-content: center;
@@ -20944,6 +20951,12 @@ use.like-icon {
     text-align: center;
 }
 
+.se {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+}
 .center-content,.btn.icon-btn {
     display: flex;
     justify-content: center;
