@@ -20928,6 +20928,22 @@ use.like-icon {
     flex: 1
 }
 
+.cent {
+    display: block;
+    margin: auto;
+    padding: auto;
+    justify-content: center;
+    align-items: center;
+    text-align: center
+}
+
+.sc {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
 .center-content,.btn.icon-btn {
     display: flex;
     justify-content: center;
