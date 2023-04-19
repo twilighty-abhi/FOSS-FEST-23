@@ -37,6 +37,38 @@
     width: 1061px;
 }
 
+.event-row{
+    height:102;
+    
+}
+
+@media(max-width: 576px) {
+    .newcolor {
+        height: 550px;
+    }
+}
+
+@media(min-width: 992px) {
+    .container {
+        padding-left:2.5rem;
+        padding-right: 2.5rem
+    }
+}
+
+@media(min-width: 1200px) {
+    .container {
+        padding-left:5rem;
+        padding-right: 5rem
+    }
+}
+
+@media(min-width: 1440px) {
+    .container {
+        padding-left:1.5rem;
+        padding-right: 1.5rem
+    }
+}
+
 .ql-container {
     box-sizing: border-box;
     font-family: Helvetica,Arial,sans-serif;
