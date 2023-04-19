@@ -19,6 +19,20 @@
     font-size: 11px;
 }
 
+.event-txt {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+.event-box {
+    background-color: #08B74F;
+    width: 182px;
+    height: 102px;
+}
+
 .ql-container {
     box-sizing: border-box;
     font-family: Helvetica,Arial,sans-serif;
