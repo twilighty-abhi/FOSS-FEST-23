@@ -25468,15 +25468,15 @@ img[alt]:after {
 
 @media(min-width: 576px) {
     .section-padding {
-        padding-top:5rem;
-        padding-bottom: 5rem
+        padding-top:3rem;
+        padding-bottom: 3rem
     }
 }
 
 @media(min-width: 1200px) {
     .section-padding {
-        padding-top:8rem;
-        padding-bottom: 8rem
+        padding-top:3rem;
+        padding-bottom: 3rem
     }
 }
 
@@ -25486,13 +25486,13 @@ img[alt]:after {
 
 @media(min-width: 576px) {
     .section-padding-top {
-        padding-top:5rem
+        padding-top:3rem
     }
 }
 
 @media(min-width: 1200px) {
     .section-padding-top {
-        padding-top:8rem
+        padding-top:3rem
     }
 }
 
@@ -25502,13 +25502,13 @@ img[alt]:after {
 
 @media(min-width: 576px) {
     .section-padding-bottom {
-        padding-bottom:5rem
+        padding-bottom:3rem
     }
 }
 
 @media(min-width: 1200px) {
     .section-padding-bottom {
-        padding-bottom:8rem
+        padding-bottom:3rem
     }
 }
 
