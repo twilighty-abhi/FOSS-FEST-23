@@ -79,8 +79,7 @@
 
 .fitcard{
     width: 700px;
-    margin-left: 204px;
-    margin-top: 32px;
+    margin: 0 auto;
 }
 
 .ql-container {
