@@ -31,6 +31,7 @@
     background-color: #08B74F;
     width: 182px;
     height: 102px;
+    margin-right: 10px;
 }
 
 .event-container {
@@ -39,12 +40,20 @@
 
 .event-row{
     height:102;
-    
+}
+
+.event-size {
+    display: contents;
+    padding: 0 15px;
+
 }
 
 @media(max-width: 576px) {
     .newcolor {
         height: 550px;
+    }
+    .event-size {
+        display: contents;
     }
 }
 
