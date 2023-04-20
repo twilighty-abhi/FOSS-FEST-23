@@ -57,25 +57,22 @@
     }
 }
 
-@media(min-width: 992px) {
-    .container {
-        padding-left:2.5rem;
-        padding-right: 2.5rem
-    }
+.fstyle{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 33px;
+    letter-spacing: 0.3em;
+    color: #000000;
 }
 
-@media(min-width: 1200px) {
-    .container {
-        padding-left:5rem;
-        padding-right: 5rem
-    }
+.cardcolor {
+    background-color: #08B74F;
 }
 
-@media(min-width: 1440px) {
-    .container {
-        padding-left:1.5rem;
-        padding-right: 1.5rem
-    }
+.cardsize {
+    width: 708px;
+    height: 164px;
 }
 
 .ql-container {
