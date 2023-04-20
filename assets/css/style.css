@@ -52,8 +52,8 @@
     .newcolor {
         height: 550px;
     }
-    .event-size {
-        display: contents;
+    .event-row {
+        height: 455px;
     }
 }
 
