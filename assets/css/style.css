@@ -77,6 +77,12 @@
     height: 164px;
 }
 
+.fitcard{
+    width: 700px;
+    margin-left: 204px;
+    margin-top: 32px;
+}
+
 .ql-container {
     box-sizing: border-box;
     font-family: Helvetica,Arial,sans-serif;
