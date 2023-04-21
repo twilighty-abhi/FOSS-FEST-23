@@ -145,6 +145,34 @@
     }
 }
 
+.event-card-h{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 23px;
+    color: #03C25A;
+}
+
+.event-card-p {
+    font-family: 'JetBrains Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    color: #FFFFFF;
+}
+
+.event-card-bt {
+    font-family: 'JetBrains Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    color: #FFFFFF;
+}
+
+.event-card-clr{
+    background: #1A1A1A;
+}
+
 .ql-container {
     box-sizing: border-box;
     font-family: Helvetica,Arial,sans-serif;
