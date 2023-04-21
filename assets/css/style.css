@@ -15,6 +15,11 @@
     padding-bottom: 30px;
 }
 
+.smaller-img{
+    width: 185px;
+    
+}
+
 .img-txt {
     font-family: 'Inter';
     font-style: normal;
@@ -117,8 +122,28 @@
     margin-top: 30px;
 }
 
+.buttonfont {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21px;
+    color: #FFFFFF;
+}
 
+.button-size{
+    width: 365px;
+}
 
+@media(max-width: 576px) {
+    .button-size{
+        margin-top: 27px;
+        width: 210px;
+    }
+    .smaller-img{
+        margin-top: 20px;
+        margin-left: -25px;
+    }
+}
 
 .ql-container {
     box-sizing: border-box;
