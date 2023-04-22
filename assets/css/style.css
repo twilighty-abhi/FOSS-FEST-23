@@ -17,6 +17,12 @@
     font-size: 18px;
 }
 
+.cls-btn {
+    background-color: #08B74F;
+    border-radius: 8px;
+    color: #FFFFFF;
+}
+
 .newcolor{
     background-color: #08B74F;
     height: 202px;
